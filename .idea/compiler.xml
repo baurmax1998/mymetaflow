@@ -8,9 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="metaflow4j" />
         <module name="metaflow4j2spring" />
-        <module name="mymetaflow" />
         <module name="rest" />
         <module name="test" />
+        <module name="testdriven" />
       </profile>
     </annotationProcessing>
   </component>
